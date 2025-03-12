@@ -1,0 +1,4 @@
+/home/lijiahao/vocabulary/demo2/build/CMakeFiles/cnpy.dir
+/home/lijiahao/vocabulary/demo2/build/CMakeFiles/ceshi.dir
+/home/lijiahao/vocabulary/demo2/build/CMakeFiles/edit_cache.dir
+/home/lijiahao/vocabulary/demo2/build/CMakeFiles/rebuild_cache.dir
