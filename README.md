@@ -1,7 +1,6 @@
 # fbow_use
 
 一个简单使用fbow的聚类demo,如何使用pytorch写的深度学习模型完成聚类 
-```c
 1.在python端完成描述子的添加，导入为.npy格式  
 2.安装opencv,我这边用的是4.2.0，  
 3.安装fbow   
