@@ -11,15 +11,16 @@ mkdir build
 cd build
 cmake ..
 make -j
-
+'''
 4.进入fbow_use,进行编译,这边cmakelist里面fbow换成自己的
 ```cpp
 mkdir build 
 cd build
 cmake ..
 make -j
-
+'''
 5.测试demo，里面是数据路径改成自己的
 ```cpp
 cd /build
 ./ceshi /home/lijiahao/vocabulary/demo2/output/endopoint.fbow
+'''
